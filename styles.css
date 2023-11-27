@@ -1,0 +1,105 @@
+
+html {
+    color:white;
+  height: 100%;
+  width: 100%;
+  background-color: #ffc2d8; 
+}
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: #d16089;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: auto;
+    height: 350px;
+}
+
+
+button{
+  	color:white;
+    background-color: #d16089;
+    border: 5px ridge white;
+    padding: 5px;
+    margin:20px;
+    width:auto;
+    height: 50px;
+}
+
+.yes-button{
+  width:60px;
+}
+
+.no-button{
+  width:50px;
+}
+
+.Part-Two-Yes {
+  color:white;
+  display:none;
+  font-family: 'Staatliches', sans-serif;
+}
+
+
+.Part-Two-No {
+    display:none;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.Story-Ending-Yes {
+    display:none;
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-No {
+    display:none;
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Cake {
+    display:none;
+    font-family: 'Coiny', cursive;
+}
+
+
+.Story {
+    display:none;
+    font-family: 'Coiny', cursive;
+}
+
+img {
+    height: 300px;
+}
+
+h1 {
+    font-family: Garamond, serif;
+    font-size: 30px; 
+    color: white;
+}
+
+
+
+
+
+
